@@ -1,0 +1,15 @@
+
+.book{
+    background: #fff;
+    border-radius: 1rem;
+    padding: 1rem 2rem;
+}
+
+.book h2, h3,p{
+    margin-top: 0.5rem;
+    padding-left: .8rem;
+}
+
+.book h3{
+    color:#00008b;
+}
