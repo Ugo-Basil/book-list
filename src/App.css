@@ -24,11 +24,11 @@ body {
 
 @media screen and (max-width: 768px) {
  .App{
-  width: 90vw;
+  width: 90%;
   margin: 1rem auto;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 1rem;
-  overflow: hidden;
+  display: block;
+  overflow-x: hidden;
+ 
 } 
   
 }

@@ -3,6 +3,7 @@
     background: #fff;
     border-radius: 1rem;
     padding: 1rem 2rem;
+    margin-top: 1rem;
 }
 
 .book h2, h3,p{
@@ -12,4 +13,20 @@
 
 .book h3{
     color:#00008b;
+}
+
+button{
+    padding: .9rem;
+    background-color: #00008b;
+    color:#fff;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    margin-top: 1rem;
+    margin-left: .5rem;
+}
+
+button:hover{
+    background-color: #e272e2;
+    
 }
